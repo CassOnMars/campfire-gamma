@@ -1,0 +1,48 @@
+{
+  "glyphs": {
+    " ": {
+      "ha": 0,
+      "x_min": 0,
+      "x_max": 0,
+      "o": ""
+    },
+    "γ": {
+      "ha": 597,
+      "x_min": -42,
+      "x_max": 576,
+      "o": "m 254 -396 q 222 -383 239 -396 q 194 -353 206 -371 q 183 -317 183 -335 q 193 -238 183 -281 q 216 -156 203 -196 q 242 -83 229 -115 q 261 -36 256 -50 q 276 42 276 -1 q 274 117 276 85 q 251 256 268 193 q 208 363 235 318 q 148 432 182 407 q 72 458 114 457 q 5 443 31 460 q -28 426 -21 426 q -38 430 -35 426 q -42 443 -42 433 q -20 494 -42 463 q 38 550 1 525 q 121 575 75 575 q 202 539 167 575 q 262 442 238 503 q 298 305 286 381 q 310 149 310 229 q 310 137 310 143 q 317 131 311 131 q 324 133 321 131 q 329 139 328 135 q 399 283 367 203 q 456 438 432 363 q 489 564 479 513 q 497 582 492 572 q 510 592 501 592 q 540 580 525 592 q 566 549 556 568 q 576 504 576 529 q 553 438 576 486 q 491 322 529 389 q 410 179 453 256 q 329 26 367 103 q 322 2 324 15 q 319 -15 319 -11 q 317 -62 319 -28 q 311 -142 314 -97 q 305 -233 308 -187 q 298 -310 301 -278 q 293 -353 294 -343 q 278 -384 290 -372 q 254 -396 265 -396 z "
+    }
+  },
+  "familyName": "Arial Unicode MS",
+  "ascender": 1485,
+  "descender": -376,
+  "underlinePosition": -139,
+  "underlineThickness": 69,
+  "boundingBox": {
+    "yMin": -458,
+    "xMin": -1404,
+    "yMax": 1497,
+    "xMax": 3139
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Digitized data copyright (C) 1993-2000 Agfa Monotype Corporation. All rights reserved. Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+    "fontFamily": "Arial Unicode MS",
+    "fontSubfamily": "Regular",
+    "uniqueID": "Monotype - Arial Unicode MS",
+    "fullName": "Arial Unicode MS",
+    "version": "Version 1.01x",
+    "postScriptName": "ArialUnicodeMS",
+    "trademark": "Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+    "manufacturer": "Agfa Monotype Corporation",
+    "designer": "Original design: Robin Nicholas, Patricia Saunders. Extended glyphs: Monotype Type Drawing Office, Monotype Typography.",
+    "description": "This extended version of Monotype's Arial contains glyphs for all code points within The Unicode Standard, Version 2.1.",
+    "manufacturerURL": "http://www.agfamonotype.com",
+    "designerURL": "http://www.agfamonotype.com/html/designer/des_index.html",
+    "licence": "\r\nNOTIFICATION OF LICENSE AGREEMENT\r\n\r\nThis typeface is the property of Monotype Typography and its use by you is covered under the terms of a license agreement. You have obtained this typeface software either directly from Monotype or together with software distributed by one of Monotype’s licensees.\r\n\r\nThis software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited to your workstation for your own publishing use. You may not copy or distribute this software.\r\n\r\nIf you have any question concerning your rights you should review the license agreement you received with the software or contact Monotype for a copy of the license agreement.\r\n\r\nMonotype can be contacted at:\r\n\r\nUSA 847-718-0400    UK 44(0)1737 765959\r\n\r\nFor license terms and usage rights, please visit our web site at:\r\nwww.monotype.com/html/type/license.html\r\n\r\nLizenzbedingungen und Nutzungsrechte finden Sie auf unserer Webseite:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPour plus d'informations concernant les droits d'utilisation et les questions contractuelles, veuillez consultez notre site:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPara obtener información acerca de los términos de licencia y los derechos de uso, visite nuestro sitio en el Web en:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPer le condizioni contrattuali ed i diritti d'uso, visitate il nostro sito web all'indirizzo:\r\nwww.monotype.com/html/type/license.html\r\n",
+    "licenceURL": "http://www.agfgamonotype.com/html/type/license.html"
+  },
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
